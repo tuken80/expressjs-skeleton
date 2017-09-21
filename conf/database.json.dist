@@ -1,0 +1,12 @@
+{
+  "dialect": "mysql",
+  "hostname": "hostname",
+  "database": "database_name",
+  "username": "username",
+  "password": "password",
+  "pool": {
+    "max": 5,
+    "min": 0,
+    "idle": 10000
+  }
+}
